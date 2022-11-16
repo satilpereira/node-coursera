@@ -1,0 +1,20 @@
+{
+  "name": "node-coursera",
+  "version": "1.0.0",
+  "description": "\"Simple node examples\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satilpereira/node-coursera.git"
+  },
+  "author": "Satil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satilpereira/node-coursera/issues"
+  },
+  "homepage": "https://github.com/satilpereira/node-coursera#readme"
+}
